@@ -1,0 +1,25 @@
+{
+  "name": "Quickswap Token List",
+  "timestamp": "2022-03-02T10:20:46.228Z",
+  "version": {
+    "major": 1,
+    "minor": 2,
+    "patch": 26
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "SROCKET",
+      "address": "0x94788309D420ad9f9f16d79fC13Ab74de83f85F7",
+      "symbol": "SROCKET",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://srockettoken.io/wp-content/uploads/2022/02/Group-97-300x300.png"
+    }
+  ]
+}
