@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://srockettoken.io/wp-content/uploads/2022/02/Group-97-300x300.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
   ]
 }
